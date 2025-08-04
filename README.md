@@ -42,6 +42,7 @@ The user is prompted through a text-based menu to choose an operation, input two
 2. Open your terminal and navigate to the directory where the file is saved.
 
 3. Compile the Java file:
-   ```bash
+   ```bash```
    javac ConsoleCalci.java
+4. ![alt image](https://github.com/Gokul15042004/Elevate-Labs-Assignment-1/blob/87dc49cf5d8e3fead1a86cb780ba9cc78e802074/Screenshot%20(20).png)
 
