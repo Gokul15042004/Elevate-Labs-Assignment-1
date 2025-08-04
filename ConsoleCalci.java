@@ -1,4 +1,3 @@
-     // Simple Console Calculator //
 import java.util.*;
 public class ConsoleCalci {
     static int add(int a, int b) {
